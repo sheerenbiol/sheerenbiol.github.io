@@ -1,4 +1,4 @@
-<img height="100" src="imgs/Ambo_01.jpg">
+<img height="100" src="/imgs/Ambo_01.jpg">
 
 ## Short Summary
 
