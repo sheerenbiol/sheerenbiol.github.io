@@ -21,10 +21,10 @@ Biological and Genomic diversity | Species distribution modelling <br />
 <br />
 ## Working experience
 **Junior Researcher** (joint-PhD candidate)  | 2021 - present <br />
-  *Focus:*  Co-evolutionary patterns and population dynamics of Leishmania Viannia spp. and Leishmaniavirus 1 <br />
+  *Focus:*  Co-evolutionary patterns and population dynamics of *Leishmania Viannia* spp. and *Leishmaniavirus* 1 <br />
   *Affiliations:* <br />
     [Institute of Tropical Medicine Antwerp (Belgium)](https://www.itg.be/en) – Biomedical Sciences – Molecular Parasitology unit <br />
-    [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) – Pharmaceutical, Veterinary and Biomedical Sciences <br />
+    [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) – Pharmaceutical, Biomedical and Veterinary Sciences <br />
     [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) – Microbiology, Immunology and Transplantation, Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
 
 **PhD candidate** | 2020 - 2021 <br />
