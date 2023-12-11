@@ -12,7 +12,7 @@
 <a href="mailto:senne.heeren@kuleuven.be">email-KUL</a> <br />
 
 ## Short Summary
-A young researcher with a keen interest in population and landscape genomics of all sorts of organisms (protozoa, viruses, fish,...).  <br />
+I'm a young researcher with a keen interest in population and landscape genomics of all sorts of organisms (protozoa, viruses, fish,...).  <br />
 I have well established skills in **bio-informatic analyses** as well as **statistical data analyses** for population/landscape genomic, phylogenomic and -geographic analyses, and I do not mind making my hands dirty during field work.
 <br />
 ## Research interests
