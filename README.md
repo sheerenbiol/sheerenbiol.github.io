@@ -12,8 +12,8 @@
 <a href="mailto:senne.heeren@kuleuven.be">email-KUL</a> <br />
 
 ## Short Summary
-A young researcher with a keen interest in population and landscape genomics of all sorts of organisms (protozoa, viruses, fish,...). Currently affiliated with the Molecular Parasitology unit at ITM in Antwerp and the laboratory of Evolutionary and Computational Virology at the Rega institute for medical research (KU Leuven). <br />
-I have well established skills in **bio-informatic analyses** (e.g., genome mapping, de novo assembly, variant calling, somy estimation) as well as **statistical data analyses** for population/ landscape genomic, phylogenomic and -geographic analyses (e.g., SNP-based inference of genomic diversity and population structure, genome-environment association, ecological niche modelling), and I do not mind making my hands dirty during field work.
+A young researcher with a keen interest in population and landscape genomics of all sorts of organisms (protozoa, viruses, fish,...).  <br />
+I have well established skills in **bio-informatic analyses** as well as **statistical data analyses** for population/landscape genomic, phylogenomic and -geographic analyses, and I do not mind making my hands dirty during field work.
 <br />
 ## Research interests
 Population & landscape genomics | Molecular evolution <br /> 
