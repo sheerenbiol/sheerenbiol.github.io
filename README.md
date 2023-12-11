@@ -76,6 +76,6 @@ Hadermann, A., **Heeren, S.**, Maes, I., Dujardin, J.-C., Domagalska, M. A., & V
 Nikol Kmentová, Armando J. Cruz-Laufer, Leona J. M. Milec, Tanisha Moons, **Senne Heeren**, Elze van den Hoorn, Kelly J. M. Thys, Lawrence Makasa, Auguste Chocha Manda, Pascal Masilya Mulungula, Maarten Van Steenberge, Michiel W. P. Jorissen, Maarten P. M. Vanhove. [Host lifestyle and parasite interspecific facilitation mediate co-infection in a species-poor host-parasite system](https://www.biorxiv.org/content/10.1101/2023.01.03.522369v2) bioRxiv 2023.01.03.522369. 2023.
 
 ### Non-Academic Publications
-**Policy Brief**
+**Policy Brief:** <br />
 De Keyzer Els L. R. & Mushagalusa Cirhuza Deo, Badesirhe Kalume Modeste, **Heeren Senne**, Hugé Jean, Janssens de Bisthoven Luc, Migabo Serge Ndondwa, Kmentová Nikol, Marwa Beatrice, Mulimbwa N’Sibula Théophile, Munundu Mangaza Aline, Muterezi Bukinga Fidel, Mwangaza Binti-Sadiki Francine, Nabintu Bugabanda Noëlla, Raeymaekers Joost, Tusanga Sylvain, Van Steenberge Maarten, Vanhove Maarten P. M., Verheyen Erik, Volckaert Filip A. M., Masilya Mulungula Pascal. [A critical look at fishing in Lake Tanganyika: will future generations still have access to fish?](http://www.archives.biodiv.be/cebios2/docs/publications/policy-briefs/PB-lake-tanganyika-en) (CEBioS Policy brief n° 15). 2020.
 <br />
