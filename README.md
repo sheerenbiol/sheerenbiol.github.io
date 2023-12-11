@@ -1,9 +1,11 @@
 <img height="200" width="400" src="/imgs/Ambo_01.jpg"> <br />
 *Photo: Senne Heeren*
 <br />
-## Summary
-I studied biology at KU Leuven where I developed an interest for ecological and evolutionary dynamics of organisms and the societal importance of fundamental research on species conservation, disease control,… Throughout my education and early career I have gained expertise in the analysis and interpretation of species’ population structure and dynamics using biological data, either morphological or genetic data. My current research focus lies on the latter, generating and analyzing whole-genome and whole-transcriptome data of vector-borne protozoans and viruses aiming to unfold their evolutionary histories and more contemporary population dynamics in order to understand the spread and emergence of such pathogens. <br />
-I have well established skills in bio-informatic analyses (e.g., genome mapping, de novo assembly, variant calling, somy estimation) as well as statistical data analyses for population/ landscape genomic, phylogenomic and -geographic analyses (e.g., SNP-based inference of genomic diversity and population structure, genome-environment association, ecological niche modelling). <br />
+## Short Summary
+I'm a **molecular ecologist** currently working on **tropical infectious diseases**.
+My main work focuses on studying the ecology and evolution of an intruiging **microbial alliance**, that between a human parasite, *Leishmania*, and a virus, *Leishmaniavirus*. I want to better understand how these two organisms have co-evolved and spread together in space and time. All this I try to accomplish by analyzing genomic data of both the parasite and the virus and combine this with epidemiological and environmental data. <br />
+I studied biology at KU Leuven where I developed an interest for ecological and evolutionary dynamics of organisms and the societal importance of fundamental research on species conservation, disease control,… Throughout my education and early career I have gained expertise in the analysis and interpretation of species’ population structure and dynamics using biological data, either morphological or genetic. <br />
+I have well established skills in **bio-informatic** analyses (e.g., genome mapping, de novo assembly, variant calling, somy estimation) as well as **statistical data analyses** for population/landscape genomic, phylogenomic and -geographic analyses (e.g., SNP-based inference of genomic diversity and population structure, genome-environment association, ecological niche modelling). <br />
 
 ## Research interests
 Population & landscape genomics | Molecular evolution <br /> 
