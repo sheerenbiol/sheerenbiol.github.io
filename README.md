@@ -4,45 +4,43 @@
 I studied biology at KU Leuven where I developed an interest for ecological and evolutionary dynamics of organisms and the societal importance of fundamental research on species conservation, disease control,… Throughout my education and early career I have gained expertise in the analysis and interpretation of species’ population structure and dynamics using biological data, either morphological or genetic data. My current research focus lies on the latter, generating and analyzing whole-genome and whole-transcriptome data of vector-borne protozoans and viruses aiming to unfold their evolutionary histories and more contemporary population dynamics in order to understand the spread and emergence of such pathogens. <br />
 
 I have well established skills in bio-informatic analyses (e.g., genome mapping, de novo assembly, variant calling, somy estimation) as well as statistical data analyses for population/ landscape genomic, phylogenomic and -geographic analyses (e.g., SNP-based inference of genomic diversity and population structure, genome-environment association, ecological niche modelling). <br />
-
 <br />
 ## Research interests
 Population & landscape genomics | Molecular evolution | Biological and Genomic diversity | Species distribution modelling <br />
-
 <br />
 ## Work experience
 **Junior Researcher** (joint-PhD candidate)  | 2021 - present <br />
-**Focus:**  Co-evolutionary patterns and population dynamics of Leishmania Viannia spp. and Leishmaniavirus 1 <br />
-**Affiliations:** <br />
-**Institute of Tropical Medicine Antwerp (Belgium)** – Biomedical Sciences – Molecular Parasitology unit <br />
-**University of Antwerp (Belgium)** – Pharmaceutical, Veterinary and Biomedical Sciences <br />
-**KU Leuven (Belgium)** – Microbiology, Immunology and Transplantation, Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
+  *Focus:*  Co-evolutionary patterns and population dynamics of Leishmania Viannia spp. and Leishmaniavirus 1 <br />
+  *Affiliations:* <br />
+    **Institute of Tropical Medicine Antwerp (Belgium)** – Biomedical Sciences – Molecular Parasitology unit <br />
+    **University of Antwerp (Belgium)** – Pharmaceutical, Veterinary and Biomedical Sciences <br />
+    **KU Leuven (Belgium)** – Microbiology, Immunology and Transplantation, Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
 
 **PhD candidate** | 2020 - 2021 <br />
-**Focus:**  Mechanisms of large internal deletions in HIV proviruses  <br />
-**Affiliation:** <br />
-**AIDS Reference Laboratory** at University of Ghent (Belgium) <br />
-**Premature ending:** Mismatch between research interests and topic <br />
+  *Focus:*  Mechanisms of large internal deletions in HIV proviruses  <br />
+  *Affiliation:* <br />
+    **AIDS Reference Laboratory** at University of Ghent (Belgium) <br />
+    **Premature ending:** Mismatch between research interests and topic <br />
 <br />
 ## Teaching experience 
 **Guest lecturer** at University of Antwerp | 2023 <br />
-**Course:** Molecular Epidemiology of Infectious Diseases <br />
-**Contribution:** two lectures on Population genomics <br />
+  *Course:* Molecular Epidemiology of Infectious Diseases <br />
+  *Contribution:* two lectures on Population genomics <br />
 <br />
 ## Education
 **Joint-PhD in Biomedical Sciences** | 2021 - present <br />
-**Institutions:** <br />
-University of Antwerp <br />
-Institute of Tropical Medicine Antwerp <br />
-KU Leuven <br />
+  *Institutions:* <br />
+    University of Antwerp <br />
+    Institute of Tropical Medicine Antwerp <br />
+    KU Leuven <br />
 
 **Master of Biology** | 2018 - 2020 <br />
-**Specialization:** Ecology & Evolution <br />
-**Institution:** KU Leuven <br />
+  *Specialization:* Ecology & Evolution <br />
+  *Institution:* KU Leuven <br />
 
 **Bachelor of Biology** | 2015 - 2018 <br />
-**Specialization:** Environment & Sustainable Development <br />
-**Institution:** KU Leuven <br />
+  *Specialization:* Environment & Sustainable Development <br />
+  *Institution:* KU Leuven <br />
 <br />
 ## Grants / Awards
 **Zoetis Travel Grant** | 2021 <br />
