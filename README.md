@@ -1,5 +1,5 @@
 <img height="200" width="400" src="/imgs/Ambo_01.jpg"> <br />
-*Photo: A view from Ambo (Peru), a place where Leishmania hybrids are known to occur. Picture by: Senne Heeren*
+*Photo: A view from Ambo (Peru), a place where Leishmania hybrids are known to occur. Picture by: Senne Heeren* <br />
 <br />
 <a href="https://twitter.com/HeerenSenne" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
 |
