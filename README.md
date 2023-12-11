@@ -1,10 +1,10 @@
 <img height="200" width="400" src="/imgs/Ambo_01.jpg">
+*Photo: Senne Heeren*
 <br />
 ## Summary
 I studied biology at KU Leuven where I developed an interest for ecological and evolutionary dynamics of organisms and the societal importance of fundamental research on species conservation, disease control,… Throughout my education and early career I have gained expertise in the analysis and interpretation of species’ population structure and dynamics using biological data, either morphological or genetic data. My current research focus lies on the latter, generating and analyzing whole-genome and whole-transcriptome data of vector-borne protozoans and viruses aiming to unfold their evolutionary histories and more contemporary population dynamics in order to understand the spread and emergence of such pathogens. <br />
-
 I have well established skills in bio-informatic analyses (e.g., genome mapping, de novo assembly, variant calling, somy estimation) as well as statistical data analyses for population/ landscape genomic, phylogenomic and -geographic analyses (e.g., SNP-based inference of genomic diversity and population structure, genome-environment association, ecological niche modelling). <br />
-<br />
+
 ## Research interests
 Population & landscape genomics | Molecular evolution | Biological and Genomic diversity | Species distribution modelling <br />
 <br />
@@ -12,15 +12,15 @@ Population & landscape genomics | Molecular evolution | Biological and Genomic d
 **Junior Researcher** (joint-PhD candidate)  | 2021 - present <br />
   *Focus:*  Co-evolutionary patterns and population dynamics of Leishmania Viannia spp. and Leishmaniavirus 1 <br />
   *Affiliations:* <br />
-    **Institute of Tropical Medicine Antwerp (Belgium)** – Biomedical Sciences – Molecular Parasitology unit <br />
-    **University of Antwerp (Belgium)** – Pharmaceutical, Veterinary and Biomedical Sciences <br />
-    **KU Leuven (Belgium)** – Microbiology, Immunology and Transplantation, Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
+    [Institute of Tropical Medicine Antwerp (Belgium)](https://www.itg.be/en) – Biomedical Sciences – Molecular Parasitology unit <br />
+    [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) – Pharmaceutical, Veterinary and Biomedical Sciences <br />
+    [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) – Microbiology, Immunology and Transplantation, Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
 
 **PhD candidate** | 2020 - 2021 <br />
   *Focus:*  Mechanisms of large internal deletions in HIV proviruses  <br />
   *Affiliation:* <br />
-    **AIDS Reference Laboratory** at University of Ghent (Belgium) <br />
-    **Premature ending:** Mismatch between research interests and topic <br />
+    [AIDS Reference Laboratory](https://www.arl.ugent.be/) at University of Ghent (Belgium) <br />
+  *Premature ending:* Mismatch between research interests and topic <br />
 <br />
 ## Teaching experience 
 **Guest lecturer** at University of Antwerp | 2023 <br />
