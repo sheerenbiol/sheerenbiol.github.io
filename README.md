@@ -1,6 +1,8 @@
 <img height="200" width="400" src="/imgs/Ambo_01.jpg"> <br />
 *Photo: Senne Heeren*
 <br />
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/senne-h-8183b51b0/) | <a href="https://twitter.com/HeerenSenne" class="right" class="twitter-follow-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
+
 ## Short Summary
 I'm a **molecular ecologist** currently working on **tropical infectious diseases**.
 My main work focuses on studying the ecology and evolution of an intruiging **microbial alliance**, that between a human parasite, *Leishmania*, and a virus, *Leishmaniavirus*. I want to better understand how these two organisms have co-evolved and spread together in space and time. All this I try to accomplish by analyzing genomic data of both the parasite and the virus and combine this with epidemiological and environmental data. <br />
