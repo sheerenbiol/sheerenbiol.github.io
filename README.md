@@ -20,7 +20,7 @@ Population & landscape genomics | Molecular evolution <br />
 Biological and Genomic diversity | Species distribution modelling <br />
 <br />
 ## Working experience
-**Junior Researcher** (joint-PhD candidate)  | 2021 - present <br />
+**Junior Researcher (joint-PhD candidate)**  | 2021 - present <br />
   *Focus:*  Co-evolutionary patterns and population dynamics of *Leishmania Viannia* spp. and *Leishmaniavirus* 1 <br />
   *Affiliations:* <br />
     [Institute of Tropical Medicine Antwerp (Belgium)](https://www.itg.be/en) – Biomedical Sciences – Molecular Parasitology unit <br />
@@ -40,16 +40,17 @@ Biological and Genomic diversity | Species distribution modelling <br />
 <br />
 ## Education
 **Joint-PhD in Biomedical Sciences** | 2021 - present <br />
+  *Focus:* Evolutionary biology of pathogenic parasites and their viruses
   *Institutions:* <br />
     University of Antwerp <br />
     Institute of Tropical Medicine Antwerp <br />
     KU Leuven <br />
 
-**Master of Biology** | 2018 - 2020 <br />
+**Master in Biology** | 2018 - 2020 <br />
   *Specialization:* Ecology & Evolution <br />
   *Institution:* KU Leuven <br />
 
-**Bachelor of Biology** | 2015 - 2018 <br />
+**Bachelor in Biology** | 2015 - 2018 <br />
   *Specialization:* Environment & Sustainable Development <br />
   *Institution:* KU Leuven <br />
 <br />
