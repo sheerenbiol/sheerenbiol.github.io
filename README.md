@@ -80,3 +80,6 @@ Nikol Kmentová, Armando J. Cruz-Laufer, Leona J. M. Milec, Tanisha Moons, **Sen
 **Policy Brief:** <br />
 De Keyzer Els L. R. & Mushagalusa Cirhuza Deo, Badesirhe Kalume Modeste, **Heeren Senne**, Hugé Jean, Janssens de Bisthoven Luc, Migabo Serge Ndondwa, Kmentová Nikol, Marwa Beatrice, Mulimbwa N’Sibula Théophile, Munundu Mangaza Aline, Muterezi Bukinga Fidel, Mwangaza Binti-Sadiki Francine, Nabintu Bugabanda Noëlla, Raeymaekers Joost, Tusanga Sylvain, Van Steenberge Maarten, Vanhove Maarten P. M., Verheyen Erik, Volckaert Filip A. M., Masilya Mulungula Pascal. [A critical look at fishing in Lake Tanganyika: will future generations still have access to fish?](http://www.archives.biodiv.be/cebios2/docs/publications/policy-briefs/PB-lake-tanganyika-en) (CEBioS Policy brief n° 15). 2020.
 <br />
+**Press releases:** <br />
+[Virus spread within parasites outlines grim future for tropical disease control](https://www.itg.be/en/health-stories/press-releases/virus-spread-within-parasites-outlines-grim-future-for-tropical-disease-control) 2023.
+<br />
