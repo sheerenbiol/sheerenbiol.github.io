@@ -17,13 +17,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: Home, icon: home}
-  - {file: "README.md", title: About me}
+  - {file: "index.html", title: "Home", icon: home}
+  - {file: "README.md", title: "About me", icon address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sheeren@itg.be"}
   - {title: Github, icon: github, url: "https://github.com/sheerenbiol"}
-  - {title: X, icon: x, url: "https://x.com/HeerenSenne"}
+  - {title: X, url: "https://x.com/HeerenSenne"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
