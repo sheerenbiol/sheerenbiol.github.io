@@ -18,11 +18,11 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "simpleCV.md", title: "About", icon: home}
-  #- {file: "PhD.md", title: "PhD", icon: book}
+ #- {file: "PhD.md", title: "PhD", icon: book}
   - {file: "Projects.md", title: "Projects"}
   - {file: "Publications.md", title: "Publications"}
   - {file: "Affiliations.md", title: "Affiliations"}
-   - {file: "News.md", title: "News"}
+  - {file: "News.md", title: "News"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sheeren@itg.be"}
