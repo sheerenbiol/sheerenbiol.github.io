@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://sheerenbiol.github.io/", title: "About", icon: home}
+  - {file: "AboutMe.md", url: "https://sheerenbiol.github.io/", title: "About", icon: home}
  #- {file: "PhD.md", title: "PhD", icon: book}
   - {file: "Projects.md", title: "Projects"}
   - {file: "Publications.md", title: "Publications"}
