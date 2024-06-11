@@ -19,9 +19,9 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://sheerenbiol.github.io/", title: "About", icon: home}
  #- {file: "PhD.md", title: "PhD", icon: book}
-  - {file: "Projects.md", title: "Projects"}
+  #- {file: "Projects.md", title: "Projects"}
   - {file: "Publications.md", title: "Publications"}
-  - {file: "Affiliations.md", title: "Affiliations"}
+  #- {file: "Affiliations.md", title: "Affiliations"}
   #- {file: "News.md", title: "News"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
