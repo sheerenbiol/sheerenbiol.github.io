@@ -1,6 +1,6 @@
 title: "Senne Heeren - Under Construction"
 author: "Senne Heeren"
-description: "Institute of Tropical Medicine, Antwerp | Katholieke Universiteit Leuven"
+description: "Institute of Tropical Medicine, Antwerp & Katholieke Universiteit Leuven"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,8 +17,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "About me", icon address-card}
+  - {file: "simpleCV.md", title: "About", icon: home}
+  #- {file: "PhD.md", title: "PhD", icon: book}
+  - {file: "Projects.md", title: "Projects"}
+  - {file: "Publications.md", title: "Publications"}
+  - {file: "Affiliations.md", title: "Affiliations"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sheeren@itg.be"}
