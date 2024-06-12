@@ -1,6 +1,5 @@
 ---
 Page: default
-Title: Publications
 ---
 
 ## Academic Publications
