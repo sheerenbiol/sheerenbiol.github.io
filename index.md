@@ -20,14 +20,12 @@ Biological and Genomic diversity | Species distribution modelling <br />
 
 **Scientific Researcher (PhD candidate)** | 2020 - 2021 <br />
   *Focus:*  Mechanisms of large internal deletions in HIV proviruses  <br />
-  *Affiliation:* <br />
-    [AIDS Reference Laboratory](https://www.arl.ugent.be/) at University of Ghent (Belgium) <br />
+  *Affiliation:* [AIDS Reference Laboratory](https://www.arl.ugent.be/) at University of Ghent (Belgium) <br />
   *Premature ending:* Mismatch between research interests and topic <br />
 <br />
 ## Teaching experience 
 **Guest lecturer** at University of Antwerp | 2023 <br />
-  *Course:* Molecular Epidemiology of Infectious Diseases <br />
-  *Contribution:* guest-lectures on Population genomics <br />
+  *Course:* Molecular Epidemiology of Infectious Diseases: Population genomics <br />
 <br />
 ## Education
 **Master in Biology** | 2018 - 2020 <br />
