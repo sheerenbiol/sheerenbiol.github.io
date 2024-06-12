@@ -38,7 +38,7 @@ Biological and Genomic diversity | Species distribution modelling <br />
 <br />
 ## Grants / Awards
 **FWO Grant for participation in a conference abroad** | 2024 <br />
-Awarded for presenting and participating in the 3rd Joint Congress on Evolutionary Biology in July 2024 (Montreal, Canada). <br />
+Awarded for presenting at the 3rd Joint Congress on Evolutionary Biology in July 2024 (Montreal, Canada). <br />
 **Zoetis Travel Grant** | 2021 <br />
 Awarded after plenary presentation at the annual meeting of the Belgian Society of Parasitology and Protistology (BSPP). Specifically meant for attending the WorldLeish7 conference in August 2022 (Cartagena, Colombia). <br />
 
