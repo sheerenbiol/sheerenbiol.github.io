@@ -1,7 +1,9 @@
 ---
 Page: default
+title: "Publications"
 ---
 
+## Academic Publications
 ### 2024
 Kmentová, N., Cruz-Laufer, A.J., Milec, L.J.M., Moons, T., **Heeren, S.**, van den Hoorn, E., Thys, K.J.M., Makasa, L., Chocha Manda, A., Masilya Mulungula, P., Van Steenberge, M., Jorissen, M.W.P. and Vanhove, M.P.M. (2024), [Host lifestyle and parasite interspecific facilitation mediate co-infection in a species-poor host–parasite system](https://doi.org/10.1111/oik.10360). *Oikos* e10360.
 
