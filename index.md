@@ -52,8 +52,8 @@ Biological and Genomic diversity | Species distribution modelling <br />
 ### Additional Courses
 **EMBO course: Computational and Molecular Evolution** - May 2023 <br />
 **University of Antwerp Workshops:** <br /> 
-    **Ecology and Evolution of Parasites and infections, 5th Summer workshop** - September 2021 <br />
-    **Genomic Data analysis** - November 2020 <br />
+   <space><space><space> **Ecology and Evolution of Parasites and infections, 5th Summer workshop** - September 2021 <br />
+   <space><space><space> **Genomic Data analysis** - November 2020 <br />
 
 ## Grants / Awards
 **FWO Grant for participation in a conference abroad** | 2024 <br />
