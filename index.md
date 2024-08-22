@@ -2,18 +2,14 @@
 layout: page
 
 ---
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
+<img src="/Images/headshot_2.png" align="left" width="200px"/>
+some text floating around the image
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
+
+
 
 | ![Flowers](/Images/headshot_2.png)  | This is me    |                                                                                                                                                   
 
