@@ -49,10 +49,10 @@ Biological and Genomic diversity | Species distribution modelling <br />
   *Institution:* KU Leuven <br />
 <br />
 
-#### Additional Courses
-**EMBO course: Computational and Molecular Evolution** - May 2023
-**University of Antwerp Workshop: Ecology and Evolution of Parasites and infections, 5th Summer workshop** - September 2021
-**University of Antwerp Workshop: Genomic Data analysis** - November 2020
+### Additional Courses
+**EMBO course: Computational and Molecular Evolution** - May 2023 <br />
+**University of Antwerp Workshop: Ecology and Evolution of Parasites and infections, 5th Summer workshop** - September 2021 <br />
+**University of Antwerp Workshop: Genomic Data analysis** - November 2020 <br />
 
 ## Grants / Awards
 **FWO Grant for participation in a conference abroad** | 2024 <br />
