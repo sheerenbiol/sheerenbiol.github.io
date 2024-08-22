@@ -9,24 +9,14 @@ sorts of organisms (protozoa, viruses, fish, …). I have well established skill
 data analyses and bio-informatic analyses for population/landscape genomic, phylogenomic
 and phylogeographic analyses and I do not mind making my hands dirty during
 field work.<br />
-##### Research interests <br />
-Population & landscape genomics | Molecular evolution <br /> 
-Biological and Genomic diversity | Species distribution modelling <br />
 
 <br clear="left"/>
-
-A "newline". This text doesn't float anymore, is left-aligned.
-
-                                                                                                                                            
-
-<img height="227.68" width="939.43" src="/Images/AboutMe-01.png"> <br />
-
 
 ## Research interests
 Population & landscape genomics | Molecular evolution <br /> 
 Biological and Genomic diversity | Species distribution modelling <br />
 <br />
-## Working experience
+## Academic experience
 **Junior Researcher (joint-PhD candidate)**  | 2021 - present <br />
   *Focus:*  Co-evolutionary patterns and population dynamics of *Leishmania Viannia* spp. and *Leishmaniavirus* 1 <br />
   *Affiliations:* <br />
