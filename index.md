@@ -2,8 +2,20 @@
 layout: page
 
 ---
-| | test |
-| ![Flowers](/Images/headshot_2.png) | I am text to the right |
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+
+| ![Flowers](/Images/headshot_2.png)  | This is me    |                                                                                                                                                   
 
 
 <img height="227.68" width="939.43" src="/Images/AboutMe-01.png"> <br />
