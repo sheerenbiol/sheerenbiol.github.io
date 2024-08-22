@@ -4,7 +4,6 @@ layout: page
 ---
 <img src="/Images/headshot_2.png" align="left" width="200px"/>
 <br />
-<br />
 > 
 > 
 > I’m a young researcher with a keen interest in population and landscape genomics of all
