@@ -47,13 +47,13 @@ Biological and Genomic diversity | Species distribution modelling <br />
 **Bachelor in Biology** | 2015 - 2018 <br />
   *Specialization:* Environment & Sustainable Development <br />
   *Institution:* KU Leuven <br />
-<br />
 
 ### Additional Courses
 **EMBO course: Computational and Molecular Evolution** - May 2023 <br />
 **University of Antwerp Workshops:** <br /> 
    <space><space><space> **Ecology and Evolution of Parasites and infections, 5th Summer workshop** - September 2021 <br />
    <space><space><space> **Genomic Data analysis** - November 2020 <br />
+   <br />
 
 ## Grants / Awards
 **FWO Grant for participation in a conference abroad** | 2024 <br />
