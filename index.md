@@ -2,7 +2,8 @@
 layout: page
 
 ---
-| ![Flowers](/Images/headshot_3.png)  I am text to the right 
+| | test |
+| ![Flowers](/Images/headshot_2.png) | I am text to the right |
 
 
 <img height="227.68" width="939.43" src="/Images/AboutMe-01.png"> <br />
