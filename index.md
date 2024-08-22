@@ -5,11 +5,11 @@ layout: page
 <img src="/Images/headshot_2.png" align="left" width="200px"/>
 <br />
 <br />
-[] I’m a young researcher with a keen interest in population and landscape genomics of all<br />
-[] sorts of organisms (protozoa, viruses, fish, …). I have well established skills in statistical<br />
-[] data analyses and bio-informatic analyses for population/landscape genomic, phylogenomic<br />
-[] and phylogeographic analyses and I do not mind making my hands dirty during<br />
-[] field work.<br />
+- I’m a young researcher with a keen interest in population and landscape genomics of all<br />
+- sorts of organisms (protozoa, viruses, fish, …). I have well established skills in statistical<br />
+- data analyses and bio-informatic analyses for population/landscape genomic, phylogenomic<br />
+- and phylogeographic analyses and I do not mind making my hands dirty during<br />
+- field work.<br />
 
 <br clear="left"/>
 
