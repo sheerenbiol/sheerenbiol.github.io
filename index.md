@@ -3,11 +3,12 @@ layout: page
 
 ---
 <img src="/Images/headshot_2.png" align="left" width="200px"/>
+<br />
 I’m a young researcher with a keen interest in population and landscape genomics of all
 sorts of organisms (protozoa, viruses, fish, …). I have well established skills in statistical
 data analyses and bio-informatic analyses for population/landscape genomic, phylogenomic
 and phylogeographic analyses and I do not mind making my hands dirty during
-field work.
+field work.<br />
 ## Research interests
 Population & landscape genomics | Molecular evolution <br /> 
 Biological and Genomic diversity | Species distribution modelling <br />
