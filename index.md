@@ -37,7 +37,7 @@ Biological and Genomic diversity | Species distribution modelling <br />
   *Course:* Molecular Epidemiology of Infectious Diseases: Population genomics <br />
 <br />
 **Teaching Assistant** | October 2019 <br />
-*Course: General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC).
+*Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC).
 
 ## Education
 **Master in Biology** | 2018 - 2020 <br />
@@ -50,9 +50,9 @@ Biological and Genomic diversity | Species distribution modelling <br />
 <br />
 
 #### Additional Courses
-- **EMBO course: Computational and Molecular Evolution** | May 2023
-- **University of Antwerp Workshop: Ecology and Evolution of Parasites and infections, 5th Summer workshop** | September 2021
-- **University of Antwerp Workshop: Genomic Data analysis** | November 2020
+**EMBO course: Computational and Molecular Evolution** - May 2023
+**University of Antwerp Workshop: Ecology and Evolution of Parasites and infections, 5th Summer workshop** - September 2021
+**University of Antwerp Workshop: Genomic Data analysis** - November 2020
 
 ## Grants / Awards
 **FWO Grant for participation in a conference abroad** | 2024 <br />
