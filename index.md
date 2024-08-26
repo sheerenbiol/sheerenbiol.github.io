@@ -67,9 +67,9 @@ Awarded after application for a six-week research visit and field work in Uvira,
 <br />
 
 ## Supervision/support of MSc. theses
-[comment]: <2023-2024 - KU Leuven: **Transcriptional profiling of** ***Leishmania (Viannia)*** **parasites infected with** ***Leishmania RNA virus*** **1** | role: day-to-day supervisor>
-2022-2023 - Institute of Tropical Medicine: **Selective Whole Genome Amplification as a method for genomic surveillance of** ***Leishmania*** ***braziliensis*** | role: support in population genomic data analysis
-2021-2022 - Institute of Tropical Medicine: **Genome diversity of** ***Leishmania aethiopica*** **from Ethiopia** | role: support in population genomic data analysis
+[comment]: <2023-2024 - KU Leuven: **Transcriptional profiling of** ***Leishmania (Viannia)*** **parasites infected with** ***Leishmania RNA virus*** **1** | role: day-to-day supervisor> <br />
+2022-2023 - Institute of Tropical Medicine: **Selective Whole Genome Amplification as a method for genomic surveillance of** ***Leishmania*** ***braziliensis*** | role: support in population genomic data analysis <br />
+2021-2022 - Institute of Tropical Medicine: **Genome diversity of** ***Leishmania aethiopica*** **from Ethiopia** | role: support in population genomic data analysis <br />
 <br />
 
 ## Reviewer for peer-reviewed Journals
