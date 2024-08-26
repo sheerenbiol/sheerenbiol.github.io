@@ -53,7 +53,6 @@ Biological and Genomic diversity | Species distribution modelling <br />
 **University of Antwerp Workshops:** <br /> 
    <space><space><space> **Ecology and Evolution of Parasites and infections, 5th Summer workshop** - September 2021 <br />
    <space><space><space> **Genomic Data analysis** - November 2020 <br />
-   <br />
 
 ## Grants / Awards
 **FWO Grant for participation in a conference abroad** | 2024 <br />
@@ -64,14 +63,11 @@ Awarded after plenary presentation at the annual meeting of the Belgian Society 
 
 **VLIR-UOS Travel Grant** | 2019 <br />
 Awarded after application for a six-week research visit and field work in Uvira, Democratic Republic of the Congo in 2019. <br />
-<br />
 
-## Supervision \/ support of MSc. theses
-2022-2023 - Institute of Tropical Medicine: **Selective Whole Genome Amplification as a method for genomic surveillance of** ***Leishmania*** ***braziliensis*** | role: support in population genomic data analysis <br />
-2021-2022 - Institute of Tropical Medicine: **Genome diversity of** ***Leishmania aethiopica*** **from Ethiopia** | role: support in population genomic data analysis <br />
-<br />
+## Supervision / support of MSc. theses
+2022-2023 - Institute of Tropical Medicine: Selective Whole Genome Amplification as a method for genomic surveillance of Leishmania braziliensis | role: support in population genomic data analysis <br />
+2021-2022 - Institute of Tropical Medicine: Genome diversity of Leishmania aethiopica from Ethiopia | role: support in population genomic data analysis <br />
 
 ## Reviewer for peer-reviewed Journals
 2023 | **Microbial Genomics** <br />
 2022 | **American Journal of Tropical Medicine & Hygiene** <br />
-<br />
