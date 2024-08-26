@@ -55,7 +55,7 @@ Biological and Genomic diversity | Species distribution modelling <br />
    <space><space><space> **Genomic Data analysis** - November 2020 <br />
    <br />
 
-## Grants / Awards <br />
+## Grants / Awards
 **FWO Grant for participation in a conference abroad** | 2024 <br />
 Awarded for presenting at the 3rd Joint Congress on Evolutionary Biology in July 2024 (Montreal, Canada). <br />
 
@@ -66,8 +66,7 @@ Awarded after plenary presentation at the annual meeting of the Belgian Society 
 Awarded after application for a six-week research visit and field work in Uvira, Democratic Republic of the Congo in 2019. <br />
 <br />
 
-## Supervision/support of MSc. theses <br />
-[comment]: <2023-2024 - KU Leuven: **Transcriptional profiling of** ***Leishmania (Viannia)*** **parasites infected with** ***Leishmania RNA virus*** **1** | role: day-to-day supervisor> <br />
+## Supervision \/ support of MSc. theses
 2022-2023 - Institute of Tropical Medicine: **Selective Whole Genome Amplification as a method for genomic surveillance of** ***Leishmania*** ***braziliensis*** | role: support in population genomic data analysis <br />
 2021-2022 - Institute of Tropical Medicine: **Genome diversity of** ***Leishmania aethiopica*** **from Ethiopia** | role: support in population genomic data analysis <br />
 <br />
