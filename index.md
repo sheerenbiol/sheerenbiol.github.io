@@ -71,8 +71,8 @@ Awarded after application for a six-week research visit and field work in Uvira,
 <br />
 
 ## Supervision / support of MSc. theses <br />
-- 2022-2023 - Institute of Tropical Medicine: Selective Whole Genome Amplification as a method for genomic surveillance of Leishmania braziliensis - role: support in population genomic data analysis <br />
-- 2021-2022 - Institute of Tropical Medicine: Genome diversity of Leishmania aethiopica from Ethiopia - role: support in population genomic data analysis <br />
+- 2022-2023 - **Selective Whole Genome Amplification as a method for genomic surveillance of** ***Leishmania braziliensis***, Institute of Tropical Medicine (Antwerp) <br />
+- 2021-2022 - **Genome diversity of** ***Leishmania aethiopica*** **from Ethiopia**, Institute of Tropical Medicine (Antwerp) <br />
 <br />
 
 ## Reviewer for peer-reviewed Journals <br />
