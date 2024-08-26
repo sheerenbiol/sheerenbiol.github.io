@@ -38,6 +38,7 @@ Biological and Genomic diversity | Species distribution modelling <br />
 <br />
 **Teaching Assistant** | October 2019 <br />
 *Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC).
+<br />
 
 ## Education
 **Master in Biology** | 2018 - 2020 <br />
@@ -49,27 +50,31 @@ Biological and Genomic diversity | Species distribution modelling <br />
   *Institution:* KU Leuven <br />
 
 ### Additional Courses
-**EMBO course: 
-- Computational and Molecular Evolution** - May 2023 <br />
-**University of Antwerp Workshops:** <br /> 
+**EMBO course:** 
+- Computational and Molecular Evolution - May 2023 <br />
+
+**University of Antwerp Workshops:**
 - Ecology and Evolution of Parasites and infections, 5th Summer workshop - September 2021 <br />
 - Genomic Data analysis - November 2020 <br />
    <br />
 
+
 ## Grants / Awards <br />
-**FWO Grant for participation in a conference abroad** | 2024 <br />
+- **FWO Grant for participation in a conference abroad** | 2024 <br />
 Awarded for presenting at the 3rd Joint Congress on Evolutionary Biology in July 2024 (Montreal, Canada). <br />
 
-**Zoetis Travel Grant** | 2021 <br />
+- **Zoetis Travel Grant** | 2021 <br />
 Awarded after plenary presentation at the annual meeting of the Belgian Society of Parasitology and Protistology (BSPP). Specifically meant for attending the WorldLeish7 conference in August 2022 (Cartagena, Colombia). <br />
 
-**VLIR-UOS Travel Grant** | 2019 <br />
+- **VLIR-UOS Travel Grant** | 2019 <br />
 Awarded after application for a six-week research visit and field work in Uvira, Democratic Republic of the Congo in 2019. <br />
+<br />
 
 ## Supervision / support of MSc. theses <br />
-2022-2023 - Institute of Tropical Medicine: Selective Whole Genome Amplification as a method for genomic surveillance of Leishmania braziliensis | role: support in population genomic data analysis <br />
-2021-2022 - Institute of Tropical Medicine: Genome diversity of Leishmania aethiopica from Ethiopia | role: support in population genomic data analysis <br />
+- 2022-2023 - Institute of Tropical Medicine: Selective Whole Genome Amplification as a method for genomic surveillance of Leishmania braziliensis | role: support in population genomic data analysis <br />
+- 2021-2022 - Institute of Tropical Medicine: Genome diversity of Leishmania aethiopica from Ethiopia | role: support in population genomic data analysis <br />
+<br />
 
 ## Reviewer for peer-reviewed Journals <br />
-2023 | **Microbial Genomics** <br />
-2022 | **American Journal of Tropical Medicine & Hygiene** <br />
+- 2023 | **Microbial Genomics** <br />
+- 2022 | **American Journal of Tropical Medicine & Hygiene** <br />
