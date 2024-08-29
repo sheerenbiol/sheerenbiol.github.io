@@ -4,7 +4,7 @@ title: "Viral evolutionary analyses as magnifying glass on parasite population d
 ---
 ![aspirate](/Images/aspirate_Leish.webp)
 
-<img src="/Images/aspirate_Leish.webp" align="center" width="400px"/>
+<img src="/Images/aspirate_Leish.webp" align="right" width="400px"/>
 
 ## Summary
 
