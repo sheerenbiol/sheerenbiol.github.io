@@ -10,5 +10,6 @@ title: "Viral evolutionary analyses as magnifying glass on parasite population d
 
 
 Funded by: <br/>
-<img src="/Images/fwo_wit.png" align="left" width="200px"/>
+<br/>
+<img src="/Images/fwo_wit.png" align="left" width="100px"/>
 
