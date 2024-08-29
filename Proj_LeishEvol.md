@@ -1,13 +1,7 @@
 ---
 page: "default"
-title: ""
+title: "Viral evolutionary analyses as magnifying glass on parasite population dynamics "
 ---
-<center>
-    <img src="/Images/aspirate_Leish.webp" width="400px"/>
-</center>
-<br/>
-
-# Viral evolutionary analyses as magnifying glass on parasite population dynamics 
 
 ## Summary
 
@@ -20,6 +14,11 @@ Van den Broeck, F., **Heeren, S.**, Maes, I., Sanders, M., Cotton, J. A., Cupoli
 
 Hadermann, A., **Heeren, S.**, Maes, I., Dujardin, J.-C., Domagalska, M. A., & Van den Broeck, F. [Genome diversity of Leishmania aethiopica](https://doi.org/10.3389/fcimb.2023.1147998) *Frontiers in Cellular and Infection Microbiology*, 13. 2023.
 <br />
+
+<center>
+    <img src="/Images/aspirate_Leish.webp" width="400px"/>
+</center>
+<br/>
 
 Funded by: <br/>
 <br/>
