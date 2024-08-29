@@ -23,6 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publications.md", title: "Publications"}
   #- {file: "Affiliations.md", title: "Affiliations"}
   - {file: "Varia.md", title: "Varia"}
+  - {file: "_posts/2017-01-01-advanced-examples.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sheeren@itg.be"}
