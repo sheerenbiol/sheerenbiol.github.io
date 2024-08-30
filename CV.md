@@ -1,6 +1,6 @@
 ---
 Page: "default"
-title: "CV"
+title: ""
 ---
 
 ## Research interests
@@ -67,3 +67,11 @@ Awarded after application for a six-week research visit and field work in Uvira,
 ## Reviewer for peer-reviewed Journals <br />
 - 2023 - **Microbial Genomics** <br />
 - 2022 - **American Journal of Tropical Medicine & Hygiene** <br />
+
+<center>
+    <figure>
+         <img src="/Images/Ambo_01.jpg" width="400px"/>
+        <figcaption><i>(c) S. Heeren (2023)</i></figcaption>
+    </figure>
+</center>
+<br/>
