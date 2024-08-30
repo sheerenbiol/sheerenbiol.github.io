@@ -16,7 +16,7 @@ Rapidly evolving pathogens may be used to study the contemporary population stru
 <center>
     <figure>
          <img src="/Images/aspirate_Leish.webp" width="400px"/>
-        <figcaption>(c) F. Van den Broeck (2023)</figcaption>
+        <figcaption><i>(c) F. Van den Broeck (2023)</i></figcaption>
     </figure>
 </center>
 <br/>
