@@ -23,5 +23,5 @@ Rapidly evolving pathogens may be used to study the contemporary population stru
 
 Funded by: <br/>
 <br/>
-[<img src="/Images/fwo_wit.png" align="left" width="100px"/>](https://researchportal.be/en/project/viral-evolutionary-analyses-magnifying-glass-parasite-population-dynamics-0)
+[<img src="/Images/fwo_kleur.png" align="left" width="100px"/>](https://researchportal.be/en/project/viral-evolutionary-analyses-magnifying-glass-parasite-population-dynamics-0)
 
