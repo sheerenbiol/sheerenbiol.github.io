@@ -71,7 +71,7 @@ Awarded after application for a six-week research visit and field work in Uvira,
 <center>
     <figure>
          <img src="/Images/Ambo_01.jpg" width="400px"/>
-        <figcaption><i>(c) S. Heeren (2023)</i></figcaption>
+        <figcaption><i>Ambo (Peru) A place known for hybridization between <i>Leishmania braziliensis</i> and <i>L. peruviana</i> (c) S. Heeren (2023)</i></figcaption>
     </figure>
 </center>
 <br/>
