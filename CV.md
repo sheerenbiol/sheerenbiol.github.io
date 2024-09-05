@@ -60,6 +60,7 @@ Awarded after application for a six-week research visit and field work in Uvira,
 <br />
 
 ## Supervision / support of MSc. theses <br />
+- 2023-2024 - **Transcriptional profiling of *Leishmania* (*Viannia*) parasites infected with *Leishmania RNA virus* 1**, KU Leuven <br />
 - 2022-2023 - **Selective Whole Genome Amplification as a method for genomic surveillance of** ***Leishmania braziliensis***, Institute of Tropical Medicine (Antwerp) <br />
 - 2021-2022 - **Genome diversity of** ***Leishmania aethiopica*** **from Ethiopia**, Institute of Tropical Medicine (Antwerp) <br />
 <br />
