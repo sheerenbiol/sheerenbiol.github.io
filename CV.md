@@ -4,16 +4,16 @@ title: ""
 ---
 
 ## Research interests
-Population & landscape genomics | Molecular evolution <br /> 
-Biological and Genomic diversity | Species distribution modelling <br />
+ ~ Population & landscape genomics ~ Molecular evolution ~ <br /> 
+ ~ Biological and Genomic diversity ~ Species distribution modelling ~ <br />
 <br />
 ## Academic experience
-**Junior Researcher (joint-PhD candidate)**  | 2021 - present <br />
-  *Focus:*  Co-evolutionary patterns and population dynamics of *Leishmania Viannia* spp. and *Leishmaniavirus* 1 <br />
-  *Affiliations:* <br />
-    [Institute of Tropical Medicine Antwerp (Belgium)](https://www.itg.be/en) – Molecular Parasitology unit <br />
-    [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) <br />
-    [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
+- **Junior Researcher (joint-PhD candidate)**  | 2021 - present <br />
+   *Focus:*  Co-evolutionary patterns and population dynamics of *Leishmania Viannia* spp. and *Leishmaniavirus* 1 <br />
+   *Affiliations:* <br />
+     [Institute of Tropical Medicine Antwerp (Belgium)](https://www.itg.be/en) – Molecular Parasitology unit <br />
+     [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) <br />
+     [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
 
 **Scientific Researcher (PhD candidate)** | 2020 - 2021 <br />
   *Focus:*  Mechanisms of large internal deletions in HIV proviruses  <br />
