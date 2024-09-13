@@ -15,28 +15,28 @@ title: ""
      [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) <br />
      [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
 
-**Scientific Researcher (PhD candidate)** | 2020 - 2021 <br />
-  *Focus:*  Mechanisms of large internal deletions in HIV proviruses  <br />
-  *Affiliation:* [AIDS Reference Laboratory](https://www.arl.ugent.be/) at University of Ghent (Belgium) <br />
-  *Premature ending:* Mismatch between research interests and topic <br />
+- **Scientific Researcher (PhD candidate)** | 2020 - 2021 <br />
+   *Focus:*  Mechanisms of large internal deletions in HIV proviruses  <br />
+   *Affiliation:* [AIDS Reference Laboratory](https://www.arl.ugent.be/) at University of Ghent (Belgium) <br />
+   *Premature ending:* Mismatch between research interests and topic <br />
 <br />
 
 ## Teaching experience 
-**Guest lecturer** at University of Antwerp | 2023 <br />
-  *Course:* Molecular Epidemiology of Infectious Diseases: Population genomics <br />
+- **Guest lecturer** at University of Antwerp | 2023 <br />
+   *Course:* Molecular Epidemiology of Infectious Diseases: Population genomics <br />
 <br />
-**Teaching Assistant** | October 2019 <br />
-*Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC).
+- **Teaching Assistant** | October 2019 <br />
+ *Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC).
 <br />
 
 ## Education
-**Master in Biology** | 2018 - 2020 <br />
-  *Specialization:* Ecology & Evolution <br />
-  *Institution:* KU Leuven <br />
+- **Master in Biology** | 2018 - 2020 <br />
+   *Specialization:* Ecology & Evolution <br />
+   *Institution:* KU Leuven <br />
 
-**Bachelor in Biology** | 2015 - 2018 <br />
-  *Specialization:* Environment & Sustainable Development <br />
-  *Institution:* KU Leuven <br />
+- **Bachelor in Biology** | 2015 - 2018 <br />
+   *Specialization:* Environment & Sustainable Development <br />
+   *Institution:* KU Leuven <br />
 
 ### Additional Courses
 **EMBO course:** 
