@@ -4,8 +4,8 @@ title: ""
 ---
 
 ## Research interests
- ~ Population & landscape genomics ~ Molecular evolution ~ <br /> 
- ~ Biological and Genomic diversity ~ Species distribution modelling ~ <br />
+ >Population & landscape genomics - Molecular evolution <br /> 
+ >Biological and Genomic diversity - Species distribution modelling <br />
 <br />
 ## Academic experience
 - **Junior Researcher (joint-PhD candidate)**  | 2021 - present <br />
