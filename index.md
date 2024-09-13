@@ -19,14 +19,24 @@ Population & landscape genomics | Molecular evolution <br />
 Biological and Genomic diversity | Species distribution modelling <br />
 <br />
 
-<img src="/Images/IMG-20191030-WA0002.jpg" align="center" width="200px"/>
-<br clear="left"/>
 
-<img src="/Images/IMG-20230707-WA0002.jpg" align="center" width="200px"/>
-<br clear="left"/>
+<center>
+    <figure>
+         <img src="/Images/IMG-20230707-WA0002.jpg" width="400px"/>
+        <figcaption><i>Research Seminar on the genomic population structure of <i>Leishmania braziliensis</i> (c) F. Van den Broeck (2023)</i></figcaption>
+    </figure>
+</center>
+<br/>
 
-<img src="/Images/20191019_082738.jpg" align="center" width="200px"/>
-<br clear="left"/>
+<center>
+    <figure>
+         <img src="/Images/20191019_082738.jpg" width="400px"/>
+        <figcaption><i> A view of Lake Tanganyika, early in the morning (after night fishing). Uvira (DRC) (c) S. Heeren (2019)</i></figcaption>
+    </figure>
+</center>
+<br/>
+
+
 ## Academic experience
 **Junior Researcher (joint-PhD candidate)**  | 2021 - present <br />
   *Focus:*  Co-evolutionary patterns and population dynamics of *Leishmania Viannia* spp. and *Leishmaniavirus* 1 <br />
