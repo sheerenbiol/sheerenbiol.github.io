@@ -18,7 +18,7 @@ layout: page
 
 <center>
     <figure>
-         <img src="/Images/20191019_082738.jpg" width="400px"/>
+         <img src="/Images/20191019_082738.jpg" width="800px"/>
         <figcaption><i> A view of Lake Tanganyika, early in the morning (after night fishing). Uvira (DRC) (c) S. Heeren (2019)</i></figcaption>
     </figure>
 </center>
@@ -36,7 +36,7 @@ layout: page
 <center>
     <figure>
          <img src="/Images/IMG-20200303-WA0001.jpg" width="200px"/>
-        <figcaption><i>Dissecting Lake Tanganyika Sardines </i> (c) E. De Keyzer (2020)</i></figcaption>
+        <figcaption><i>Dissecting Lake Tanganyika Sardines (c) E. De Keyzer (2020)</i></figcaption>
     </figure>
 </center>
 <br/>
