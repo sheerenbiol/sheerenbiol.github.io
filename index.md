@@ -19,6 +19,13 @@ Population & landscape genomics | Molecular evolution <br />
 Biological and Genomic diversity | Species distribution modelling <br />
 <br />
 
+<center>
+    <figure>
+         <img src="/Images/IMG-20200303-WA0001.jpg" width="400px"/>
+        <figcaption><i>Dissecting Lake Tanganyika Sardines </i> (c) E. De Keyzer (2020)</i></figcaption>
+    </figure>
+</center>
+<br/>
 
 <center>
     <figure>
