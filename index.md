@@ -19,12 +19,14 @@ Population & landscape genomics | Molecular evolution <br />
 Biological and Genomic diversity | Species distribution modelling <br />
 <br />
 
-<img src="/Images/IMG-20191030-WA0002.jpg" align="left" width="200px"/>
-<img src="/Images/IMG-20230707-WA0002.jpg" align="right" width="200px"/>
+<img src="/Images/IMG-20191030-WA0002.jpg" align="center" width="200px"/>
+<br clear="left"/>
 
-<br />
+<img src="/Images/IMG-20230707-WA0002.jpg" align="center" width="200px"/>
+<br clear="left"/>
+
 <img src="/Images/20191019_082738.jpg" align="center" width="200px"/>
-
+<br clear="left"/>
 ## Academic experience
 **Junior Researcher (joint-PhD candidate)**  | 2021 - present <br />
   *Focus:*  Co-evolutionary patterns and population dynamics of *Leishmania Viannia* spp. and *Leishmaniavirus* 1 <br />
