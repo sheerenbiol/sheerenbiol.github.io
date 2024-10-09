@@ -24,21 +24,5 @@ layout: page
 </center>
 <br/>
 
-<center>
-    <figure>
-         <img src="/Images/IMG-20230707-WA0002.jpg" width="400px"/>
-        <figcaption><i>Research Seminar on the genomic population structure of <i>Leishmania braziliensis</i> (c) F. Van den Broeck (2023)</i></figcaption>
-    </figure>
-</center>
-<br/>
-
-
-<center>
-    <figure>
-         <img src="/Images/IMG-20200303-WA0001.jpg" width="200px"/>
-        <figcaption><i>Dissecting Lake Tanganyika Sardines (c) E. De Keyzer (2020)</i></figcaption>
-    </figure>
-</center>
-<br/>
 
 ----------------------------------------------------
