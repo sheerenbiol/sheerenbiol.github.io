@@ -10,9 +10,9 @@ Kmentová, N., Cruz-Laufer, A.J., Milec, L.J.M., Moons, T., **Heeren, S.**, van 
 ### 2023
 **Heeren, S.**, Maes, I., Sanders, M., Lye, L.-F., Adaui, V., Arevalo, J., Llanos-Cuentas, A., Garcia, L., Lemey, P., Beverley, S. M., Cotton, J. A., Dujardin, J.-C., & Van den Broeck, F. [Diversity and dissemination of viruses in pathogenic protozoa](https://doi.org/10.1038/s41467-023-44085-2) *Nat Commun* 14, 8343, 2023.
 
-Van den Broeck, F., **Heeren, S.**, Maes, I., Sanders, M., Cotton, J. A., Cupolillo, E., Alvarez, E., Garcia, L., Tasia, M., Marneffe, A., Dujardin, J.-C., & Van der Auwera, G. [Genome Analysis of Triploid Hybrid Leishmania Parasite from the Neotropics](https://wwwnc.cdc.gov/eid/article/29/5/22-1456_article) *Emerging Infectious Diseases*, 29(5), 1076–1078. 2023.
+Van den Broeck, F., **Heeren, S.**, Maes, I., Sanders, M., Cotton, J. A., Cupolillo, E., Alvarez, E., Garcia, L., Tasia, M., Marneffe, A., Dujardin, J.-C., & Van der Auwera, G. [Genome Analysis of Triploid Hybrid *Leishmania* Parasite from the Neotropics](https://wwwnc.cdc.gov/eid/article/29/5/22-1456_article) *Emerging Infectious Diseases*, 29(5), 1076–1078. 2023.
 
-Hadermann, A., **Heeren, S.**, Maes, I., Dujardin, J.-C., Domagalska, M. A., & Van den Broeck, F. [Genome diversity of Leishmania aethiopica](https://doi.org/10.3389/fcimb.2023.1147998) *Frontiers in Cellular and Infection Microbiology*, 13. 2023.
+Hadermann, A., **Heeren, S.**, Maes, I., Dujardin, J.-C., Domagalska, M. A., & Van den Broeck, F. [Genome diversity of *Leishmania aethiopica*](https://doi.org/10.3389/fcimb.2023.1147998) *Frontiers in Cellular and Infection Microbiology*, 13. 2023.
 <br />
 ## Pre-prints:
 ### 2024
