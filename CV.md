@@ -22,11 +22,11 @@ title: ""
 <br />
 
 ## Teaching experience 
-- **Guest lecturer** at University of Antwerp | 2023 <br />
+- **Guest lecturer** at University of Antwerp | 2023 - present <br />
    *Course:* Molecular Epidemiology of Infectious Diseases: Population genomics <br />
 <br />
 - **Teaching Assistant** | October 2019 <br />
- *Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC).
+  *Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC).
 <br />
 
 ## Education
@@ -66,6 +66,7 @@ Awarded after application for a six-week research visit and field work in Uvira,
 <br />
 
 ## Reviewer for peer-reviewed Journals <br />
+- 2024 - **Virus Evolution** <br />
 - 2023 - **Microbial Genomics** <br />
 - 2022 - **American Journal of Tropical Medicine & Hygiene** <br />
 
