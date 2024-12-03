@@ -5,6 +5,8 @@ title: ""
 
 ## Academic Publications
 ### 2024
+Heeren, S., Sanders, M., Shaw, J. J., Pinto Brandão-Filho, S., Côrtes Boité, M., Motta Cantanhêde, L., Chourabi, K., Maes, I., Llanos-Cuentas, A., Arevalo, J., Marco, J. D., Lemey, P., Cotton, J. A., Dujardin, J.-C., Cupolillo, E., & Van den Broeck, F. (2024). [Evolutionary genomics of Leishmania braziliensis across the neotropical realm](https://www.nature.com/articles/s42003-024-07278-z). Communications Biology, 7(1), 1587.
+
 Kmentová, N., Cruz-Laufer, A.J., Milec, L.J.M., Moons, T., **Heeren, S.**, van den Hoorn, E., Thys, K.J.M., Makasa, L., Chocha Manda, A., Masilya Mulungula, P., Van Steenberge, M., Jorissen, M.W.P. and Vanhove, M.P.M. (2024), [Host lifestyle and parasite interspecific facilitation mediate co-infection in a species-poor host–parasite system](https://doi.org/10.1111/oik.10360). *Oikos* e10360.
 
 ### 2023
@@ -14,9 +16,7 @@ Van den Broeck, F., **Heeren, S.**, Maes, I., Sanders, M., Cotton, J. A., Cupoli
 
 Hadermann, A., **Heeren, S.**, Maes, I., Dujardin, J.-C., Domagalska, M. A., & Van den Broeck, F. [Genome diversity of *Leishmania aethiopica*](https://doi.org/10.3389/fcimb.2023.1147998) *Frontiers in Cellular and Infection Microbiology*, 13. 2023.
 <br />
-## Pre-prints:
-### 2024
-**Heeren, S.**, Sanders, M., Shaw, J. J., Brandão-Filho, S. P., Côrtes Boité, M., Cantanhêde, L. M., Chourabi, K., Maes, I., Llanos-Cuentas, A., Arevalo, J., Marco, J. D., Lemey, P., Cotton, J. A., Dujardin, J.-C., Cupolillo, E., & Van den Broeck, F. (2024). [Evolutionary genomics of a zoonotic parasite across the Neotropical Realm](https://doi.org/10.1101/2024.06.06.597691). *bioRxiv*.
+
 <br />
 ## Non-Academic Publications
 ### 2020
