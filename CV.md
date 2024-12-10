@@ -25,8 +25,9 @@ title: ""
 - **Guest lecturer** at University of Antwerp | 2023 - present <br />
    *Course:* Molecular Epidemiology of Infectious Diseases: Population genomics <br />
 <br />
-- **Teaching Assistant** | October 2019 <br />
-  *Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC).
+- **Teaching Assistant** <br />
+  *Practical course:* Viral phylogeography, KU Leuven | 2024 <br />
+  *Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC) | 2019 <br />
 <br />
 
 ## Education
