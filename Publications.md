@@ -5,7 +5,7 @@ title: ""
 
 ## Academic Publications
 ### 2024
-Kostygov AY, Grybchuk D, **Heeren S**, Gerasimov ES, Klocek D, et al. (2024) [A novel strain of Leishmania braziliensis harbors not a toti- but a bunyavirus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012767). PLOS Neglected Tropical Diseases 18(12): e0012767.
+Kostygov, A. Y., Grybchuk, D., **Heeren, S.**, Gerasimov, E. S., Klocek, D., Reddy, A., Sádlová, J., Pacáková, L., Kohl, A., Stejskal, F., Volf, P., Dujardin, J.-C., & Yurchenko, V. (2024). [A novel strain of Leishmania braziliensis harbors not a toti- but a bunyavirus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012767). PLOS Neglected Tropical Diseases 18(12): e0012767.
 
 **Heeren, S.**, Sanders, M., Shaw, J. J., Pinto Brandão-Filho, S., Côrtes Boité, M., Motta Cantanhêde, L., Chourabi, K., Maes, I., Llanos-Cuentas, A., Arevalo, J., Marco, J. D., Lemey, P., Cotton, J. A., Dujardin, J.-C., Cupolillo, E., & Van den Broeck, F. (2024). [Evolutionary genomics of Leishmania braziliensis across the neotropical realm](https://www.nature.com/articles/s42003-024-07278-z). Communications Biology, 7(1), 1587.
 
