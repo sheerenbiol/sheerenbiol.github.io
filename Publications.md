@@ -5,9 +5,9 @@ title: ""
 
 ## Academic Publications
 ### 2024
-Kostygov, A. Y., Grybchuk, D., **Heeren, S.**, Gerasimov, E. S., Klocek, D., Reddy, A., Sádlová, J., Pacáková, L., Kohl, A., Stejskal, F., Volf, P., Dujardin, J.-C., & Yurchenko, V. (2024). [A novel strain of Leishmania braziliensis harbors not a toti- but a bunyavirus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012767). PLOS Neglected Tropical Diseases 18(12): e0012767.
+Kostygov, A. Y., Grybchuk, D., **Heeren, S.**, Gerasimov, E. S., Klocek, D., Reddy, A., Sádlová, J., Pacáková, L., Kohl, A., Stejskal, F., Volf, P., Dujardin, J.-C., & Yurchenko, V. (2024). [A novel strain of Leishmania braziliensis harbors not a toti- but a bunyavirus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012767). *PLOS Neglected Tropical Diseases* 18(12): e0012767.
 
-**Heeren, S.**, Sanders, M., Shaw, J. J., Pinto Brandão-Filho, S., Côrtes Boité, M., Motta Cantanhêde, L., Chourabi, K., Maes, I., Llanos-Cuentas, A., Arevalo, J., Marco, J. D., Lemey, P., Cotton, J. A., Dujardin, J.-C., Cupolillo, E., & Van den Broeck, F. (2024). [Evolutionary genomics of Leishmania braziliensis across the neotropical realm](https://www.nature.com/articles/s42003-024-07278-z). Communications Biology, 7(1), 1587.
+**Heeren, S.**, Sanders, M., Shaw, J. J., Pinto Brandão-Filho, S., Côrtes Boité, M., Motta Cantanhêde, L., Chourabi, K., Maes, I., Llanos-Cuentas, A., Arevalo, J., Marco, J. D., Lemey, P., Cotton, J. A., Dujardin, J.-C., Cupolillo, E., & Van den Broeck, F. (2024). [Evolutionary genomics of Leishmania braziliensis across the neotropical realm](https://www.nature.com/articles/s42003-024-07278-z). *Communications Biology*, 7(1), 1587.
 
 Kmentová, N., Cruz-Laufer, A.J., Milec, L.J.M., Moons, T., **Heeren, S.**, van den Hoorn, E., Thys, K.J.M., Makasa, L., Chocha Manda, A., Masilya Mulungula, P., Van Steenberge, M., Jorissen, M.W.P. and Vanhove, M.P.M. (2024), [Host lifestyle and parasite interspecific facilitation mediate co-infection in a species-poor host–parasite system](https://doi.org/10.1111/oik.10360). *Oikos* e10360.
 
