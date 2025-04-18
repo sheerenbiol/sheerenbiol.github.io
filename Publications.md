@@ -4,6 +4,10 @@ title: ""
 ---
 
 ## Academic Publications
+### 2025
+#### Pre-prints:
+Daoui, O., Monsieurs, P., Talimi, H., Spaeth, G. F., Dujardin, J-C., **Heeren, S.**, Lemrani, M., Domagalska, M. A. (2025). [Direct genome sequencing of Leishmania tropica in tissues of Moroccan patients with cutaneous leishmaniasis reveals micro-focal transmission underlain by clonal and sexual reproduction modes](https://doi.org/10.1101/2025.04.17.649263). *bioRxiv* 2025.04.17.649263.
+
 ### 2024
 Kostygov, A. Y., Grybchuk, D., **Heeren, S.**, Gerasimov, E. S., Klocek, D., Reddy, A., Sádlová, J., Pacáková, L., Kohl, A., Stejskal, F., Volf, P., Dujardin, J.-C., & Yurchenko, V. (2024). [A novel strain of Leishmania braziliensis harbors not a toti- but a bunyavirus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012767). *PLOS Neglected Tropical Diseases* 18(12): e0012767.
 
