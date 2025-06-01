@@ -6,6 +6,8 @@ title: ""
 ## Academic Publications
 ### 2025
 #### Pre-prints:
+Omwenga, V. K., Gathii, K., Ayieko, C., Masakhwe, C., Ibrahim, M. H., **Heeren, S.**, Dujardin, J. C., Monsieurs, P., Domagalska, M. A., & Waitumbi, J. N. (2025). [Direct sequencing of *Leishmania donovani* from patients in Garissa County, Northern Kenya, reveals a newly emerging intra-specific hybrid genotype](https://doi.org/10.1101/2025.05.15.25327683). *medRxiv* 2025.05.15.25327683. 
+
 Daoui, O., Monsieurs, P., Talimi, H., Spaeth, G. F., Dujardin, J-C., **Heeren, S.**, Lemrani, M., Domagalska, M. A. (2025). [Direct genome sequencing of *Leishmania tropica* in tissues of Moroccan patients with cutaneous leishmaniasis reveals micro-focal transmission underlain by clonal and sexual reproduction modes](https://www.biorxiv.org/content/10.1101/2025.04.17.649263v1). *bioRxiv* 2025.04.17.649263.
 
 ### 2024
