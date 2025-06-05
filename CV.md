@@ -3,7 +3,7 @@ Page: "default"
 title: ""
 ---
 
-## Research interests
+>[!tip] Research Interests:
 >Population & landscape genomics - Molecular evolution <br /> 
 >Biological and Genomic diversity - Species distribution modelling <br />
 
@@ -40,10 +40,13 @@ title: ""
    *Institution:* KU Leuven <br />
 
 ### Additional Courses
-**EMBO course:** 
+**Physalia courses:**
+- Machine- and Deep learning methods for population genomics and phylogeography - April 2025 <br />
+
+**EMBO:** 
 - Computational and Molecular Evolution - May 2023 <br />
 
-**University of Antwerp Workshops:**
+**University of Antwerp:**
 - Ecology and Evolution of Parasites and infections, 5th Summer workshop - September 2021 <br />
 - Genomic Data analysis - November 2020 <br />
    <br />
