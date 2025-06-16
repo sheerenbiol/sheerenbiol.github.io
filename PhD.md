@@ -1,6 +1,6 @@
 ---
 page: default
-title: "Projects"
+title: "PhD"
 ---
 
 ## Title: Parasite evolution through the lens of a unique microbial alliance
