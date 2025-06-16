@@ -19,7 +19,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://sheerenbiol.github.io/", title: "About", icon: home}
   - {file: "CV.md", title: "CV"}
- #- {file: "PhD.md", title: "PhD", icon: book}
+  - {file: "PhD.md", title: "PhD", icon: book}
   - {file: "Projects.md", title: "Projects"}
   - {file: "Publications.md", title: "Publications"}
   #- {file: "Affiliations.md", title: "Affiliations"}
@@ -28,7 +28,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sheeren@itg.be"}
   - {title: Github, icon: github, url: "https://github.com/sheerenbiol"}
-  - {title: X, url: "https://x.com/HeerenSenne"}
+  - {title: Bsky, url: "https://bsky.app/profile/heerens.bsky.social"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
