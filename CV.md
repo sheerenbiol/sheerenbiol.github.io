@@ -3,8 +3,7 @@ Page: "default"
 title: ""
 ---
 
->[!tip]
->Research Interests:
+>**Research Interests:** <br />
 >Population & landscape genomics - Molecular evolution <br /> 
 >Biological and Genomic diversity - Species distribution modelling <br />
 
