@@ -5,10 +5,10 @@ title: ""
 
 ## Academic Publications
 ### 2025
-Daoui, O., Monsieurs, P., Talimi, H., Späth, G. F., Dujardin, J.-C., **Heeren, S.**, Lemrani, M., & Domagalska, M. A. (2025). [Direct genome sequencing of Leishmania tropica in tissues of Moroccan patients with cutaneous leishmaniasis reveals micro-focal transmission underlain by (pseudo-)clonal and sexual reproduction modes](https://academic.oup.com/jid/advance-article-abstract/doi/10.1093/infdis/jiaf485/8257065?redirectedFrom=fulltext&login=false). The Journal of Infectious Diseases, jiaf485.
+Daoui, O., Monsieurs, P., Talimi, H., Späth, G. F., Dujardin, J.-C., **Heeren, S.**, Lemrani, M., & Domagalska, M. A. (2025). [Direct genome sequencing of *Leishmania tropica* in tissues of Moroccan patients with cutaneous leishmaniasis reveals micro-focal transmission underlain by (pseudo-)clonal and sexual reproduction modes](https://academic.oup.com/jid/advance-article-abstract/doi/10.1093/infdis/jiaf485/8257065?redirectedFrom=fulltext&login=false). The Journal of Infectious Diseases, jiaf485.
 
-#### Pre-prints:
-Omwenga, V. K., Gathii, K., Ayieko, C., Masakhwe, C., Ibrahim, M. H., **Heeren, S.**, Dujardin, J. C., Monsieurs, P., Domagalska, M. A., & Waitumbi, J. N. (2025). [Direct sequencing of *Leishmania donovani* from patients in Garissa County, Northern Kenya, reveals a newly emerging intra-specific hybrid genotype](https://doi.org/10.1101/2025.05.15.25327683). *medRxiv* 2025.05.15.25327683. 
+> **Pre-prints:**
+> Omwenga, V. K., Gathii, K., Ayieko, C., Masakhwe, C., Ibrahim, M. H., **Heeren, S.**, Dujardin, J. C., Monsieurs, P., Domagalska, M. A., & Waitumbi, J. N. (2025). [Direct sequencing of *Leishmania donovani* from patients in Garissa County, Northern Kenya, reveals a newly emerging intra-specific hybrid genotype](https://doi.org/10.1101/2025.05.15.25327683). *medRxiv* 2025.05.15.25327683. 
 
 ### 2024
 Kostygov, A. Y., Grybchuk, D., **Heeren, S.**, Gerasimov, E. S., Klocek, D., Reddy, A., Sádlová, J., Pacáková, L., Kohl, A., Stejskal, F., Volf, P., Dujardin, J.-C., & Yurchenko, V. (2024). [A novel strain of *Leishmania braziliensis* harbors not a toti- but a bunyavirus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012767). *PLOS Neglected Tropical Diseases* 18(12): e0012767.
