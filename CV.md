@@ -3,12 +3,18 @@ Page: "default"
 title: ""
 ---
 
->[!tip] Research Interests:
+>[!tip]
+>Research Interests:
 >Population & landscape genomics - Molecular evolution <br /> 
 >Biological and Genomic diversity - Species distribution modelling <br />
 
 ## Academic experience
-- **Junior Researcher (joint-PhD candidate)**  | 2021 - present <br />
+- **Post-doctoral Researcher in Ecological & Evolutionary Genomics**  | 2021 - 2025 <br />
+   *Focus:*  Elucidating animal dispersal histories based on the evolution of their viruses <br />
+   *Affiliations:* <br />
+     [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
+     
+- **Junior Researcher (joint-PhD candidate)**  | 2021 - 2025 <br />
    *Focus:*  Co-evolutionary patterns and population dynamics of *Leishmania Viannia* spp. and *Leishmaniavirus* 1 <br />
    *Affiliations:* <br />
      [Institute of Tropical Medicine Antwerp (Belgium)](https://www.itg.be/en) – Molecular Parasitology unit <br />
@@ -26,11 +32,18 @@ title: ""
    *Course:* Molecular Epidemiology of Infectious Diseases: Population genomics <br />
 <br />
 - **Teaching Assistant** <br />
-  *Practical course:* Viral phylogeography, KU Leuven | 2024 <br />
+  *Practical course:* (viral) phylogenetics, MSc. Biomedical Sciences, KU Leuven | 2025 <br />
+  *Practical course:* Viral phylogeography, MSc. Biology, KU Leuven | 2024, 2025 <br />
   *Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC) | 2019 <br />
 <br />
 
 ## Education
+- **Joint-PhD in Biomedical Sciences** | 2021 - 2025 <br />
+  *Thesis:* Parasite evolution through the lens of a microbial alliance <br />
+  *Institutions:* <br />
+    University of Antwerp <br />
+    KU Leuven <br />
+  
 - **Master in Biology** | 2018 - 2020 <br />
    *Specialization:* Ecology & Evolution <br />
    *Institution:* KU Leuven <br />
@@ -53,6 +66,9 @@ title: ""
 
 
 ## Grants / Awards <br />
+- **KU LEUVEN Post-Doctoral Mandate (PDM) type 1 grant** | 2025 <br />
+Awarded after competitive, though unsuccesful, application for a FWO post-doctoral fellowship with the goal to re-apply with the following call.
+
 - **FWO Grant for participation in a conference abroad** | 2024 <br />
 Awarded for presenting at the 3rd Joint Congress on Evolutionary Biology in July 2024 (Montreal, Canada). <br />
 
