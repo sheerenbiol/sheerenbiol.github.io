@@ -4,8 +4,12 @@ title: ""
 ---
 
 >**Research Interests:** <br />
->Population & landscape genomics - Molecular evolution <br /> 
->Biological and Genomic diversity - Species distribution modelling <br />
+> - Molecular & spatial epidemiology
+> - One Health
+> - Population & landscape genomics
+> - Molecular evolution
+> - Biological and Genomic diversity
+> - Species distribution modelling
 
 ## Academic experience
 - **Post-doctoral Researcher in Ecological & Evolutionary Genomics**  | 2021 - 2025 <br />
