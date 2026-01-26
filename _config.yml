@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "Varia.md", title: "Varia"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:sheeren@itg.be"}
+  - {title: Mail, icon: envelope, url: "mailto:senne.heeren@kuleuven.be"}
   - {title: Github, icon: github, url: "https://github.com/sheerenbiol"}
   - {title: Bsky, url: "https://bsky.app/profile/heerens.bsky.social"}
 
