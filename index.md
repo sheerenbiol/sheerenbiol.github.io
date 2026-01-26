@@ -4,14 +4,15 @@ layout: page
 ---
 <img src="/Images/headshot_2.png" align="left" width="200px"/>
 > <space><space><space> <br />
+> <space><space><space> <br />
 > I consider myself as a molecular ecologist who is particularly interested
 in how evolution shaped our past and current biodiversity. For this my
 weapons of choice are: high-throughput sequencing approaches combined
 with population/landscape genomic approaches and phylogenetics. <br />
 For me, everything goes: fieldwork, labwork, pc-work. <br />
 > <space><space><space> <br />
-> <space><space><space> <br />
-> **Previous study systems:** <br />
+
+> 📌 **Previous study systems:**
 > - Bats: *Myotis emarginatus*, *Plecotus auritus* and their associated viruses <br />
 > - *Leishmania* (*Viannia*) parasites & leishmaniaviruses <br />
 > - Lake Tanganyika sardines: *Stolothrissa tanganicae* & *Limnothrissa miodon* <br />
