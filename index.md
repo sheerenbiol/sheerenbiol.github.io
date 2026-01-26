@@ -4,7 +4,6 @@ layout: page
 ---
 <img src="/Images/headshot_2.png" align="left" width="200px"/>
 > <space><space><space> <br />
-> <space><space><space> <br />
 > I consider myself as a molecular ecologist who is particularly interested
 in how evolution shaped our past and current biodiversity. For this my
 weapons of choice are: high-throughput sequencing approaches combined
