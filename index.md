@@ -12,8 +12,8 @@ For me, everything goes: fieldwork, labwork, pc-work. <br />
 > <space><space><space> <br />
 > <space><space><space> <br />
 
-> 📌 **Previous study systems:**
-> - Bats: *Myotis emarginatus*, *Plecotus auritus* and their associated viruses <br />
+> 📌 **Current & Previous study systems:**
+> - Bats: *Myotis emarginatus*, *Plecotus auritus* and their associated viruses (current) <br />
 > - *Leishmania* (*Viannia*) parasites & leishmaniaviruses <br />
 > - Lake Tanganyika sardines: *Stolothrissa tanganicae* & *Limnothrissa miodon* <br />
 
