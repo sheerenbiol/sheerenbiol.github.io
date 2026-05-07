@@ -12,7 +12,7 @@ title: ""
 > - Species distribution modelling
 
 ## Academic experience
-- **Post-doctoral Researcher in Ecological & Evolutionary Genomics**  | 2021 - 2025 <br />
+- **Post-doctoral Researcher in Ecological & Evolutionary Genomics**  | 2025 - Present <br />
    *Focus:*  Elucidating animal dispersal histories based on the evolution of their viruses <br />
    *Affiliations:* <br />
      [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
