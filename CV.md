@@ -35,8 +35,8 @@ title: ""
    *Course:* Molecular Epidemiology of Infectious Diseases: Population genomics <br />
 <br />
 - **Teaching Assistant** <br />
-  *Practical course:* (viral) phylogenetics, MSc. Biomedical Sciences, KU Leuven | 2025 <br />
-  *Practical course:* Viral phylogeography, MSc. Biology, KU Leuven | 2024, 2025 <br />
+  *Practical course:* (viral) phylogenetics, MSc. Biomedical Sciences, KU Leuven | 2025 - Present <br />
+  *Practical course:* Evolutionary and Ecological Genomics, MSc. Biology, KU Leuven | 2024 - Present <br />
   *Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC) | 2019 <br />
 <br />
 
@@ -56,6 +56,9 @@ title: ""
    *Institution:* KU Leuven <br />
 
 ### Additional Courses
+**Scimingo:**
+- Science communication: Popular scientific writing | Populair wetenschappelijk schrijven - Mei 2026 <br />
+
 **Physalia courses:**
 - Machine- and Deep learning methods for population genomics and phylogeography - April 2025 <br />
 
