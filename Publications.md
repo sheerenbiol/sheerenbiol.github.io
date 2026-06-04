@@ -5,7 +5,7 @@ title: ""
 
 ## Academic Publications
 ### 2026
-Omwenga, V. K., Kimita, G., Matoke-Muhia, D., Ayieko, C., Masakhwe, C., Ibrahim, M. H., **Heeren, S.**, Dujardin, J.-C., Monsieurs, P., Domagalska, M. A., & Waitumbi, J. (2025). [Direct sequencing of *Leishmania donovani* from patients in Garissa County, Northern Kenya, reveals a newly emerging intra-specific hybrid genotype](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013144). *PLOS Neglected Tropical Diseases* 20(1): e0013144.
+Omwenga, V. K., Kimita, G., Matoke-Muhia, D., Ayieko, C., Masakhwe, C., Ibrahim, M. H., **Heeren, S.**, Dujardin, J.-C., Monsieurs, P., Domagalska, M. A., & Waitumbi, J. (2026). [Direct sequencing of *Leishmania donovani* from patients in Garissa County, Northern Kenya, reveals a newly emerging intra-specific hybrid genotype](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013144). *PLOS Neglected Tropical Diseases* 20(1): e0013144.
 
 ### 2025
 Daoui, O., Monsieurs, P., Talimi, H., Späth, G. F., Dujardin, J.-C., **Heeren, S.**, Lemrani, M., & Domagalska, M. A. (2025). [Direct genome sequencing of *Leishmania tropica* in tissues of Moroccan patients with cutaneous leishmaniasis reveals micro-focal transmission underlain by (pseudo-)clonal and sexual reproduction modes](https://academic.oup.com/jid/advance-article-abstract/doi/10.1093/infdis/jiaf485/8257065?redirectedFrom=fulltext&login=false). *The Journal of Infectious Diseases*, jiaf485.
