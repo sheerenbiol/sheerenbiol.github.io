@@ -17,14 +17,14 @@ title: ""
    *Affiliations:* <br />
      [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
      
-- **Junior Researcher (joint-PhD candidate)**  | 2021 - 2025 <br />
+- **Junior Researcher**  | 2021 - 2025 <br />
    *Focus:*  Co-evolutionary patterns and population dynamics of *Leishmania Viannia* spp. and *Leishmaniavirus* 1 <br />
    *Affiliations:* <br />
      [Institute of Tropical Medicine Antwerp (Belgium)](https://www.itg.be/en) – Molecular Parasitology unit <br />
      [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) <br />
      [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
 
-- **Scientific Researcher (PhD candidate)** | 2020 - 2021 <br />
+- **Scientific Researcher** | 2020 - 2021 <br />
    *Focus:*  Mechanisms of large internal deletions in HIV proviruses  <br />
    *Affiliation:* [AIDS Reference Laboratory](https://www.arl.ugent.be/) at University of Ghent (Belgium) <br />
    *Premature ending:* Mismatch between research interests and topic <br />
@@ -35,17 +35,18 @@ title: ""
    *Course:* Molecular Epidemiology of Infectious Diseases: Population genomics <br />
 <br />
 - **Teaching Assistant** <br />
-  *Practical course:* (viral) phylogenetics, MSc. Biomedical Sciences, KU Leuven | 2025 - Present <br />
+  *Practical course:* Quantitative genetics, MSc. Bioinformatics, KU Leuven | 2025 - Present <br />
+  *Practical course:* Bioinformatics and Artificial Intelligence: Sequence, Structure and Evolution, MSc. Biomedical Sciences, KU Leuven | 2025 - Present <br />
   *Practical course:* Evolutionary and Ecological Genomics, MSc. Biology, KU Leuven | 2024 - Present <br />
-  *Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC) | 2019 <br />
+  *Course:* General research workshop, Centre du Recherche en Hydrobiologie, Uvira (DRC) | 2019 (2 weeks) <br />
 <br />
 
 ## Education
 - **Joint-PhD in Biomedical Sciences** | 2021 - 2025 <br />
   *Thesis:* Parasite evolution through the lens of a microbial alliance <br />
   *Institutions:* <br />
-    University of Antwerp <br />
-    KU Leuven <br />
+    [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) <br />
+    [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv)
   
 - **Master in Biology** | 2018 - 2020 <br />
    *Specialization:* Ecology & Evolution <br />
@@ -57,7 +58,7 @@ title: ""
 
 ### Additional Courses
 **Scimingo:**
-- Science communication: Popular scientific writing | Populair wetenschappelijk schrijven - Mei 2026 <br />
+- Science communication: Popular scientific writing ~ Populair wetenschappelijk schrijven - May 2026 <br />
 
 **Physalia courses:**
 - Machine- and Deep learning methods for population genomics and phylogeography - April 2025 <br />
