@@ -3,7 +3,7 @@ Page: "default"
 title: ""
 ---
 
->**Research Interests:** <br />
+> 📌 **Research Interests:** <br />
 > - Molecular & spatial epidemiology
 > - One Health
 > - Population & landscape genomics
