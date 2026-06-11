@@ -5,6 +5,8 @@ title: ""
 
 ## Academic Publications
 ### 2026
+Everts, T., Dellicour, S., & **Heeren, S.** (2026). [Viral tags as keys to advancing invasion genomics](https://doi.org/10.1016/j.tig.2026.05.010). Trends in Genetics: TIG, 0(0). https://doi.org/10.1016/j.tig.2026.05.010
+
 Omwenga, V. K., Kimita, G., Matoke-Muhia, D., Ayieko, C., Masakhwe, C., Ibrahim, M. H., **Heeren, S.**, Dujardin, J.-C., Monsieurs, P., Domagalska, M. A., & Waitumbi, J. (2026). [Direct sequencing of *Leishmania donovani* from patients in Garissa County, Northern Kenya, reveals a newly emerging intra-specific hybrid genotype](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013144). *PLOS Neglected Tropical Diseases* 20(1): e0013144.
 
 ### 2025
