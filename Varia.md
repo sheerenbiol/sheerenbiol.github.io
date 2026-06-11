@@ -5,7 +5,7 @@ title: "Science Communication"
 ### 2026:
 - **Blog post**:
    - [Dutch: Virussen als nieuwe manier om dieren te volgen](https://www.eoswetenschap.eu/natuur-milieu/virussen-als-nieuwe-manier-om-dieren-te-volgen)
-   - English: Viruses as new way to track animals
+   - [English: Viruses as new way to track animals](https://github.com/sheerenbiol/sheerenbiol.github.io/blob/master/_posts/2026-06-10-viruses_as_new_way_for_tracking_animals.md)
 
 ### 2024:
 - **Outreach:** [Playing Malaria Outbreak! - a card game - @ Nerdland Festival](https://x.com/ITMmalaria/status/1797568421149978709)
