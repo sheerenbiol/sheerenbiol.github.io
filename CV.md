@@ -45,8 +45,8 @@ title: ""
 - **Joint-PhD in Biomedical Sciences** | 2021 - 2025 <br />
   *Thesis:* Parasite evolution through the lens of a microbial alliance <br />
   *Institutions:* <br />
-    [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) <br />
-    [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv)
+    University of Antwerp (Belgium) <br />
+    KU Leuven (Belgium) <br />
   
 - **Master in Biology** | 2018 - 2020 <br />
    *Specialization:* Ecology & Evolution <br />
