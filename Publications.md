@@ -38,3 +38,7 @@ Hadermann, A., **Heeren, S.**, Maes, I., Dujardin, J.-C., Domagalska, M. A., & V
 **Policy Brief:** <br />
 De Keyzer Els L. R. & Mushagalusa Cirhuza Deo, Badesirhe Kalume Modeste, **Heeren Senne**, Hugé Jean, Janssens de Bisthoven Luc, Migabo Serge Ndondwa, Kmentová Nikol, Marwa Beatrice, Mulimbwa N’Sibula Théophile, Munundu Mangaza Aline, Muterezi Bukinga Fidel, Mwangaza Binti-Sadiki Francine, Nabintu Bugabanda Noëlla, Raeymaekers Joost, Tusanga Sylvain, Van Steenberge Maarten, Vanhove Maarten P. M., Verheyen Erik, Volckaert Filip A. M., Masilya Mulungula Pascal. [A critical look at fishing in Lake Tanganyika: will future generations still have access to fish?]([http://www.archives.biodiv.be/cebios2/docs/publications/policy-briefs/PB-lake-tanganyika-en](https://cebios.naturalsciences.be/publications/policybriefs/policybrief15/)) (CEBioS Policy brief n° 15). 2020.
 <br />
+
+## Conference abstracts
+#### 2026
+Everts T, Dellicour S, Heeren S (2026) [Viral tags as keys to advancing invasion genomics](https://doi.org/10.3897/aca.9.e201548). *Presented at Neobiota 2026 (14th International Conference on Biological Invasions), Brussels, Belgium (07-11/09/2026)*. ARPHA Conference Abstracts 9: e201548.
