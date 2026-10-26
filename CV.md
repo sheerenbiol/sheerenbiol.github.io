@@ -12,7 +12,18 @@ title: ""
 > - Species distribution modelling
 
 ## Academic experience
-- **Post-doctoral Researcher in Ecological & Evolutionary Genomics**  | 2025 - Present <br />
+- **Post-doctoral Researcher in Spatial Ecology & Epidemiology**  | 2026 - Present <br />
+   *Focus:*
+      - Modeling species distributions / ecological niches of animals with regard to climate and land-use change (past, present and future) 
+      - Elucidating animal dispersal histories based on the evolution of their viruses <br />
+   *Affiliations:* <br />
+     [Université Libre de Bruxelles (Belgium)](https://spell.ulb.be/) - SPeLL – Spatial Epidemiology Lab <br />
+
+- **Visiting Research Fellow**  | 2026 - Present <br />
+   *Affiliations:* <br />
+     [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
+
+- **Post-doctoral Researcher in Ecological & Evolutionary Genomics**  | 2025 - 2026 <br />
    *Focus:*  Elucidating animal dispersal histories based on the evolution of their viruses <br />
    *Affiliations:* <br />
      [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
@@ -57,6 +68,9 @@ title: ""
    *Institution:* KU Leuven <br />
 
 ### Additional Courses
+**UBO** - Université de Bretagne Occidentale:
+- [EBAME11](https://maignienlab.gitlab.io/ebame/) ~ Emerging Bio-informatics Approaches in Microbial Ecogenomics - October 2026 <br />
+
 **Scimingo:**
 - Science communication: Popular scientific writing ~ Populair wetenschappelijk schrijven - May 2026 <br />
 
