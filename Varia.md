@@ -4,9 +4,9 @@ title: "Science Communication"
 ---
 ### 2026:
 - **Blog posts**:
-   - Could we please be a bit more daring in science (again)? | Mag het (opnieuw) wat gedurfder in de wetenschap, aub?
+   - Could we please be a bit more daring in science (again)? / Mag het (opnieuw) wat gedurfder in de wetenschap, aub?
       - [Dutch](https://www.eoswetenschap.eu/themas/algemeen/mag-het-opnieuw-wat-gedurfder-de-wetenschap-aub) / [English](https://sheerenbiol.github.io/Post_daring_in_science/)
-   - Viruses as new way to track animals | Virussen als nieuwe manier om dieren te volgen
+   - Viruses as new way to track animals / Virussen als nieuwe manier om dieren te volgen
       - [Dutch](https://www.eoswetenschap.eu/natuur-milieu/virussen-als-nieuwe-manier-om-dieren-te-volgen) / [English](https://sheerenbiol.github.io/Post_viruses_as_tags/)
 
 ### 2024:
