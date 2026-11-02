@@ -16,24 +16,21 @@ title: ""
    *Focus:*
       - Modeling species distributions / ecological niches of animals with regard to climate and land-use change (past, present and future) 
       - Elucidating animal dispersal histories based on the evolution of their viruses <br />
-   *Affiliations:* <br />
-     [Université Libre de Bruxelles (Belgium)](https://spell.ulb.be/) - SPeLL – Spatial Epidemiology Lab <br />
+   *Affiliations:* [Université Libre de Bruxelles (Belgium)](https://spell.ulb.be/) - SPeLL – Spatial Epidemiology Lab <br />
 
 - **Visiting Research Fellow**  | 2026 - Present <br />
-   *Affiliations:* <br />
-     [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
+   *Affiliations:* [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
 
 - **Post-doctoral Researcher in Ecological & Evolutionary Genomics**  | 2025 - 2026 <br />
    *Focus:*  Elucidating animal dispersal histories based on the evolution of their viruses <br />
-   *Affiliations:* <br />
-     [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
+   *Affiliations:* [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
      
 - **Junior Researcher**  | 2021 - 2025 <br />
    *Focus:*  Co-evolutionary patterns and population dynamics of *Leishmania Viannia* spp. and *Leishmaniavirus* 1 <br />
    *Affiliations:* <br />
-     [Institute of Tropical Medicine Antwerp (Belgium)](https://www.itg.be/en) – Molecular Parasitology unit <br />
-     [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) <br />
-     [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
+     - [Institute of Tropical Medicine Antwerp (Belgium)](https://www.itg.be/en) – Molecular Parasitology unit <br />
+     - [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) <br />
+     - [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
 
 - **Scientific Researcher** | 2020 - 2021 <br />
    *Focus:*  Mechanisms of large internal deletions in HIV proviruses  <br />
