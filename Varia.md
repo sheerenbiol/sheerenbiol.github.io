@@ -3,9 +3,11 @@ page: default
 title: "Science Communication"
 ---
 ### 2026:
-- **Blog post**:
-   - [Dutch: Virussen als nieuwe manier om dieren te volgen](https://www.eoswetenschap.eu/natuur-milieu/virussen-als-nieuwe-manier-om-dieren-te-volgen)
-   - [English: Viruses as new way to track animals](https://sheerenbiol.github.io/Post_viruses_as_tags/)
+- **Blog posts**:
+   - Could we please be a bit more daring in science (again)? | Mag het (opnieuw) wat gedurfder in de wetenschap, aub?
+      - [Dutch](https://www.eoswetenschap.eu/themas/algemeen/mag-het-opnieuw-wat-gedurfder-de-wetenschap-aub) / [English](https://sheerenbiol.github.io/Post_daring_in_science/)
+   - Viruses as new way to track animals | Virussen als nieuwe manier om dieren te volgen
+      - [Dutch](https://www.eoswetenschap.eu/natuur-milieu/virussen-als-nieuwe-manier-om-dieren-te-volgen) / [English](https://sheerenbiol.github.io/Post_viruses_as_tags/)
 
 ### 2024:
 - **Outreach:** [Playing Malaria Outbreak! - a card game - @ Nerdland Festival](https://x.com/ITMmalaria/status/1797568421149978709)
