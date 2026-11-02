@@ -11,11 +11,11 @@ Everts, T., Dellicour, S., & **Heeren, S.** (2026). [Viral tags as keys to advan
 
 Omwenga, V. K., Kimita, G., Matoke-Muhia, D., Ayieko, C., Masakhwe, C., Ibrahim, M. H., **Heeren, S.**, Dujardin, J.-C., Monsieurs, P., Domagalska, M. A., & Waitumbi, J. (2026). [Direct sequencing of *Leishmania donovani* from patients in Garissa County, Northern Kenya, reveals a newly emerging intra-specific hybrid genotype](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013144). *PLOS Neglected Tropical Diseases* 20(1): e0013144.
 
-Daoui, O., Monsieurs, P., Talimi, H., Späth, G. F., Dujardin, J.-C., **Heeren, S.**, Lemrani, M., & Domagalska, M. A. (2026). [Genome sequencing of Leishmania tropica in tissues of Moroccan patients reveals microfocal transmission underlain by (pseudo)clonal and sexual reproduction.](https://academic.oup.com/jid/article-abstract/233/2/401/8257065?redirectedFrom=fulltext&login=false) *The Journal of Infectious Diseases*, 233(2), 401–410.
-
 ### 2025
+Daoui, O., Monsieurs, P., Talimi, H., Späth, G. F., Dujardin, J.-C., **Heeren, S.**, Lemrani, M., & Domagalska, M. A. (2026). [Genome sequencing of Leishmania tropica in tissues of Moroccan patients reveals microfocal transmission underlain by (pseudo)clonal and sexual reproduction.](https://academic.oup.com/jid/article-abstract/233/2/401/8257065?redirectedFrom=fulltext&login=false) *The Journal of Infectious Diseases*, 233(2), 401–410. (*Published online September 2025*)
+
 > **Pre-prints:** <br />
-> **Heeren, S.**, Motta Cantanhêde, L., Chourabi, K., de Oliveira Santana, M. C., Klaps, J., Kostygov, A. Y., Yurchenko, V., Lemey, P., Dujardin, J.-C., Van den Broeck, F., & Cupolillo, E. (2025). [Genomic evidence for co-evolution and sporadic host shifts in leishmaniaviruses](https://www.biorxiv.org/content/10.1101/2025.11.20.685321v2). *bioRxiv*. 2025.11.20.685321
+> **Heeren, S.**, Motta Cantanhêde, L., Chourabi, K., de Oliveira Santana, M. C., Klaps, J., Kostygov, A. Y., Yurchenko, V., Lemey, P., Dujardin, J.-C., Van den Broeck, F., & Cupolillo, E. (2025). [Genomic evidence for co-evolution and sporadic host shifts in leishmaniaviruses](https://www.biorxiv.org/content/10.1101/2025.11.20.685321v2). *bioRxiv*. 2025.11.20.685321 (**Accepted in *Communications Biology***).
 
 ### 2024
 Kostygov, A. Y., Grybchuk, D., **Heeren, S.**, Gerasimov, E. S., Klocek, D., Reddy, A., Sádlová, J., Pacáková, L., Kohl, A., Stejskal, F., Volf, P., Dujardin, J.-C., & Yurchenko, V. (2024). [A novel strain of *Leishmania braziliensis* harbors not a toti- but a bunyavirus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012767). *PLOS Neglected Tropical Diseases* 18(12): e0012767.
