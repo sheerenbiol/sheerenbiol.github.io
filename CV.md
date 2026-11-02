@@ -34,7 +34,7 @@ title: ""
      - [Institute of Tropical Medicine Antwerp (Belgium)](https://www.itg.be/en/research/research-themes/leishmaniasis) – Molecular Parasitology unit <br />
      - [University of Antwerp (Belgium)](https://www.uantwerpen.be/en/) <br />
      - [KU Leuven (Belgium)](https://rega.kuleuven.be/cev/ecv) - Rega Institute for Medical Research – Evolutionary and Computational Virology <br />
-
+  
 - **Scientific Researcher** | 2020 - 2021 <br />
    *Focus:*  Mechanisms of large internal deletions in HIV proviruses  <br />
    *Affiliation:* [AIDS Reference Laboratory](https://www.arl.ugent.be/) at University of Ghent (Belgium) <br />
